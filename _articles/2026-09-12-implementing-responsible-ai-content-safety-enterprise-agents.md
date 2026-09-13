@@ -29,7 +29,7 @@ A comprehensive guide to **Responsible AI and Content Safety** in enterprise age
 - **Compliance** — Supporting GDPR, HIPAA, ISO 27001, and organizational governance
 - **Architecture** — Safety enforcement at the infrastructure layer, not application code
 
-## Why Responsible AI matters in enterprise agents
+## Why Responsible AI matters in Enterprise Agents
 
 When multiple agents collaborate on sensitive topics, the risk of misinformation, bias, and non-compliance increases. Responsible AI provides critical governance safeguards:
 
@@ -38,7 +38,7 @@ When multiple agents collaborate on sensitive topics, the risk of misinformation
 - **Compliance:** Reinforces organizational standards and regulatory requirements
 - **Trust:** Demonstrates safety-first approach to AI-powered automation
 
-## The six Responsible AI principles
+## The Six Responsible AI principles
 
 Microsoft's Responsible AI framework rests on six foundational principles:
 
@@ -88,7 +88,7 @@ Content Safety filters in Microsoft Foundry detect and block harmful outputs bef
 
 ### Step 1: Navigate to guardrails
 
-1. Select **Guardrails + Controls** from the left navigation menu
+1. Select **Guardrails + Controls** from the left navigation menu in Microsoft foundry (classic) experience
 2. Select **Create a custom content filter**
 3. Open the filter wizard
 
